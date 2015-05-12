@@ -6,7 +6,7 @@
 	* Plugin Name: Kuvat.fi embed
 	* Plugin URI: http://kuvat.fi
 	* Description: Usage: [kuvat width=(width in pixels) height=(height in pixels) bgcolor=0/1/2 thumbstrip=0/1]http://demo.kuvat.fi/kuvat/[/kuvat]
-	* Version: 1.0
+	* Version: 1.0.1
 	* Author: Mediadrive
 	* Author URI: http://kuvat.fi
 	*/
